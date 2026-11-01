@@ -1,0 +1,18 @@
+
+site_name: Personal CV & Portfolio
+site_description: Personal resume and portfolio website
+
+theme:
+  name: readthedocs
+
+nav:
+  - Home: index.md
+  - About Me: about.md
+  - Education: education.md
+  - Experience: experience.md
+  - Projects: projects.md
+  - Skills: skills.md
+  - Contact: contact.md
+
+markdown_extensions:
+  - attr_list
